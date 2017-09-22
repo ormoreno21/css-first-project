@@ -1,0 +1,63 @@
+.logo{
+	width:50px;
+	height: 60px;
+	float:right;
+	
+}
+.home{
+	margin: 0 auto;
+	text-align: center;
+}
+.welcome{
+	text-align: center;
+	font-family: 'Orbitron', sans-serif;
+}
+.welcomepic{
+	height: 200px;
+    margin: auto;
+    
+}
+.about{
+
+  width: 150px;
+font-family: 'Indie Flower', cursive;
+margin: 0 auto;
+padding: 25px;
+}
+.about h1{
+	color:green;
+}
+.contact{
+	margin: 0 auto;
+	width: 600px;
+
+	
+	
+}
+input[type=text], select, textarea {
+    width: 100%; /* Full width */
+    padding: 12px; /* Some padding */  
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin     */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+	margin-top:20px; 
+}
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+.elements{
+	margin: 0 auto;
+	width: 600px;
+}
+
